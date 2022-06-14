@@ -1,4 +1,6 @@
-# For class CSIT357 @ MSU
+# For class CSIT357 @ MSU 
 
-With the reference of Quincy Larson whi provided the code and design. Our finals results were:
+With the reference of Quincy Larson who provided the code and design. Our finals results is found on the link below to play the game:
   https://lanzaquisbes1.github.io/CSIT357/
+  
+  
