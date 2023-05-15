@@ -32,5 +32,5 @@ The goal focuses on the application of gaming concepts in AI, particularly game 
 With the reference of Quincy Larson who provided the code and design. 
 
 Our finals results is found on the link below to play the game:
-  https://lanzaquisbes1.github.io/CSIT357/
+  https://lanzaquisbes1.github.io/Game-Development---AI/
   
